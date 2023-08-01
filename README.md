@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ARIEL makal
+-  👀 I'm interested by Back-end
+- 🌱 I’m currently learning Python ...
